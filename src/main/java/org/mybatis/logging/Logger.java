@@ -45,6 +45,7 @@ public class Logger {
   }
 
   public void debug(Supplier<String> s) {
+    // 好代码
     if (log.isDebugEnabled()) {
       log.debug(s.get());
     }
