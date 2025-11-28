@@ -3,7 +3,6 @@ package org.mybatis;
 import java.io.FileInputStream;
 import java.io.InputStream;
 
-import static java.lang.System.in;
 
 /**
  * @author xujiabing
